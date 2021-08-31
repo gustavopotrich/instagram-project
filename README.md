@@ -1,4 +1,5 @@
 instagram-project
+
 Recreating Instagram homepage using HTML and CSS. 
 
 This simple project is based on recreating the Instagram login page using only HTML and CSS.
